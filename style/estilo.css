@@ -52,17 +52,18 @@ main{
 }
 .mobile-img{display: none;  overflow-x: hidden !important;}
 .hero-container{display: flex; flex-direction: column; align-items: flex-start; width: 80%;  margin: 0 auto;  max-width: 1180px; }
-.hero-container :nth-child(1){height: 52px; padding-bottom: 26.71px; position: relative; z-index: 99;}
+.hero-container :nth-child(1){    height: 38px;
+    padding-bottom: 24.71px; position: relative; z-index: 99;}
 .hero-container h1{
 position: relative;
 z-index: 99;
-font-size: 40px;
+font-size: 33px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
 width: 80%;
-max-width: 500px;
-padding-bottom: 35px;
+max-width: 450px;
+padding-bottom: 16px;
 }
 .hero-container h1 span{
     font-weight: 700;
